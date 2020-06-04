@@ -17,25 +17,35 @@ In case you aren't aware, the man page mentions that you can use username@hostna
 Port to connect to on the remote host. This can be specified on a per-host basis in the configuration file.
 ```
 
-## Level 1
-
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 
+## Level 1
+cd .. & cat bandit1/- 
+
+or
+
+cat ./-
+
+CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+
 ## Level 2
+use tab or \ as an escape sequence
 
-
+UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 
 ## Level 3
-
-
+ls -a
+pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
 ## Level 4
 
-
+file ./*
+cat ./-file07
+koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 
 ## Level 5
-
-
+find * -readable -not -executable -size 1033c
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
 ## Level 6
 
