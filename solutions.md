@@ -48,8 +48,14 @@ find * -readable -not -executable -size 1033c
 DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
 ## Level 6
+cd /
+find * -user bandit7 -group bandit6 -size 33c
 
+result: var/lib/dpkg/info/bandit7.password
 
+cat var/lib/dpkg/info/bandit7.password
+
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 
 ## Level 7
 
