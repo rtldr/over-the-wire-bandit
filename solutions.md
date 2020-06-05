@@ -82,3 +82,40 @@ IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 tr 'A-Za-z' 'N-ZA-Mn-za-m' < data.txt
 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 
+## Level 12
+
+
+
+## Level 13
+
+
+
+## Level 14
+
+
+
+## Level 15
+
+
+
+## Level 16
+
+
+
+## Level 17
+
+
+
+## Level 18
+
+
+
+## Level 19
+
+
+
+## Level 20
+
+
+
+
