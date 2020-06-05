@@ -59,11 +59,13 @@ HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 
 ## Level 7
 
-
+grep millionth* data.txt
+millionth	cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 
 ## Level 8
 
-
+sort data.txt | uniq -u
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 
 ## Level 9
 
