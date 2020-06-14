@@ -89,7 +89,8 @@ tar -xf file_name, bzip2 -d file_name, mv file_name file_name.gz & gzip -d file_
 
 ## Level 13
 
-
+ssh -i sshkey.private bandit14@localhost
+4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
 
 ## Level 14
 
