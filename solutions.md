@@ -84,7 +84,8 @@ tr 'A-Za-z' 'N-ZA-Mn-za-m' < data.txt
 
 ## Level 12
 
-
+tar -xf file_name, bzip2 -d file_name, mv file_name file_name.gz & gzip -d file_name.gz, file file_name for info about the file
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 
 ## Level 13
 
